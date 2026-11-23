@@ -8,6 +8,18 @@ Reads a transformer's hardware list PDF and writes the fastener schedule to Exce
 - Adds a weight for each line from the weight table.
 - Saves the Excel file and a PDF copy, with the prepared / checked / approved fields filled in.
 
+## See it in 30 seconds
+
+<a href="docs/film/fasteners.mp4">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/film/fasteners-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="docs/film/fasteners-light.gif">
+    <img src="docs/film/fasteners-dark.gif" width="100%" alt="Animated Swiss-poster film: a hardware PDF goes in, bolt codes are read, M16X25 rounds up to M16X30, and an Excel and PDF schedule come out">
+  </picture>
+</a>
+
+<p align="center"><sub>Fasteners Automation in 30 seconds. The preview plays silently with subtitles; <a href="docs/film/fasteners.mp4">open the MP4</a> for the narrated version with music.</sub></p>
+
 ## Quick start (Windows)
 
 ```bash
